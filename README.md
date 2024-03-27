@@ -30,4 +30,4 @@ Data and code-related questions should be addressed to Marina Klanjčić (mrnkln
 
 ## [MIT License](https://github.com/klnmrn/postcovidmobility/blob/main/LICENSE)
 
-[Back To The Top](#post-COVID-Mobility)
+[Back To The Top](#post-covid-mobility-in-piedmont-region-in-italy)
