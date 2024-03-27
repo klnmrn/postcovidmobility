@@ -1,3 +1,12 @@
+"""
+apple.py
+
+Description: A script to read and process Apple mobility data.
+
+Author: Marina Klanjcic
+Date: 2024-03-27
+"""
+
 import os
 import pandas as pd
 

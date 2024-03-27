@@ -1,3 +1,12 @@
+"""
+main.py
+
+Description: A script to analyze mobility data from Apple, Google and Facebook and plot it in 1 figure.
+
+Author: Marina Klanjcic
+Date: 2024-03-27
+"""
+
 import os
 
 from data_processing.apple import read_apple_data

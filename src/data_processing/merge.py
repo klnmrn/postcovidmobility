@@ -1,3 +1,12 @@
+"""
+merge.py
+
+Description: A script to merge mobility data.
+
+Author: Marina Klanjcic
+Date: 2024-03-27
+"""
+
 import pandas as pd
 
 

@@ -1,3 +1,12 @@
+"""
+plot.py
+
+Description: A script to plot Apple, Google and Facebook mobility data.
+
+Author: Marina Klanjcic
+Date: 2024-03-27
+"""
+
 import os
 import pandas as pd
 import numpy as np
