@@ -20,13 +20,10 @@ The data from Apple, Google and Facebook were downloaded in 2021 when I worked o
 
 ## [Python script](src/main.py)
 This script performs data processing on Apple, Google and Facebook datasets and visualizes the data in one figure.<br>
-**Before running the script make sure to have all the requirements installed and the data downloaded locally with path adjustment in the code.**
+**Before running the script make sure to have all the requirements installed and clone the repo.**
 
 ## Credits
-I developed this work for a local Trade Union during my time at LINKS Foundation in Turin, Italy.
-
-## Contacts
-Data and code-related questions should be addressed to Marina Klanjčić (mrnkln@outlook.com).
+I developed this work for a local Trade Union during my time at LINKS Foundation in Turin, Italy. Reach out if you have data or code-related questions.
 
 ## [MIT License](https://github.com/klnmrn/postcovidmobility/blob/main/LICENSE)
 
